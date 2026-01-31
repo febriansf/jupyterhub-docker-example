@@ -2,6 +2,8 @@
 
 ## Deployment
 
+Jupyterhub Docker with Cuda Support
+
 To deploy this project run
 
 ```bash
